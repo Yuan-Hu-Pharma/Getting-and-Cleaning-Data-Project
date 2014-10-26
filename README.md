@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ==================================================================
 
 ## Coursera Getting and Cleaning Data Project
@@ -53,3 +54,7 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
 ==================================================================
+=======
+Getting-and-Cleaning-Data-Project
+=================================
+>>>>>>> c9d7e9b506edfef639395d4275a36971402dd120
